@@ -1,0 +1,11 @@
+/vendor
+/bin
+coverage
+.buildpath
+.project
+.settings
+~working.lock
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+views/_twig_cache_
+node_modules
